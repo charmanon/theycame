@@ -3,8 +3,7 @@ import zooz from '../images/Zooz1.jpg';
 import mynx from '../images/Mynx.jpg';
 import zoozmynx from '../images/ZoozMynx.jpg';
 import zoozshot from '../images/ZoozShoot.jpg';
-import $ from 'jquery';
-import { MediaBox, Row, Col, Slider, Slide } from 'react-materialize';
+import { Row, Col } from 'react-materialize';
 
 class Bio extends Component {
 	render() {
