@@ -5,6 +5,7 @@ import google from '../images/google.png';
 import itunes from '../images/itunes.png';
 import googleassist from '../images/googleassist.png';
 import alexa from '../images/alexa.png';
+import theycamealexa from '../images/theycamealexa.png';
 
 class Play extends Component {
 	render() {
@@ -20,12 +21,12 @@ class Play extends Component {
 					<a className="grey-text text-lighten-3" href="#!">
 						<img
 							className="responsive-img google"
-							src={googleassist}
-							alt="Google Play Link"
+							src={theycamealexa}
+							alt="Alexa Link"
 						/>
 					</a>
 
-					<a className="grey-text text-lighten-3" href="#!">
+					{/* <a className="grey-text text-lighten-3" href="#!">
 						<img className="responsive-img" src={google} alt="Google Link" />
 					</a>
 
@@ -35,7 +36,7 @@ class Play extends Component {
 
 					<a className="grey-text text-lighten-3" href="#!">
 						<img className=" responsive-img " src={alexa} alt="Amazon Link" />
-					</a>
+					</a> */}
 				</div>
 			</div>
 		);

@@ -64,11 +64,12 @@ nav ul a {
 }
 
 main {
+	min-height: 100%;
 	margin-top: 105px;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	min-height: 90vh;
+	/*min-height: 90vh;*/
 	flex: 1 0 auto;
 	background-color: white;
 }
@@ -182,6 +183,10 @@ b i {
 	text-align: center;
 }
 
+.critic {
+	margin-top: 40px;
+}
+
 /* Swag CSS*/
 .swag {
 	text-align: center;
@@ -198,7 +203,7 @@ b i {
 }
 
 .play {
-	max-width: 300px;
+	/*max-width: 300px;*/
 	align-items: center;
 	justify-content: center;
 }

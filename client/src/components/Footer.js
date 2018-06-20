@@ -4,6 +4,7 @@ import google from '../images/google.png';
 import itunes from '../images/itunes.png';
 import googleassist from '../images/googleassist.png';
 import alexa from '../images/alexa.png';
+import theycamealexa from '../images/theycameart.png';
 
 class Footer extends Component {
 	render() {
@@ -40,10 +41,14 @@ class Footer extends Component {
 							<ul>
 								<li>
 									<a className="" href="#!">
-										<img className="badges" src={alexa} alt="Amazon Link" />
+										<img
+											className="badges"
+											src={theycamealexa}
+											alt="Alexa Link"
+										/>
 									</a>
 								</li>
-								<li>
+								{/* <li>
 									<a className="" href="#!">
 										<img
 											className="badges"
@@ -65,14 +70,14 @@ class Footer extends Component {
 									<a className="" href="#!">
 										<img className="badges" src={itunes} alt="iTunes Link" />
 									</a>
-								</li>
+								</li> */}
 							</ul>
 						</div>
 					</div>
 				</div>
 				<div className="footer-copyright">
 					<div className="container">
-						© 2017 Copyright{' '}
+						© 2017-2018 Copyright{' '}
 						<a className="links" href="http://doublerrstudios.com/">
 							Double RR Studios
 						</a>
