@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.25d6e9ea.css",
-  "main.css.map": "static/css/main.25d6e9ea.css.map",
-  "main.js": "static/js/main.b92b9e6e.js",
-  "main.js.map": "static/js/main.b92b9e6e.js.map",
+  "main.css": "static/css/main.dd56e316.css",
+  "main.css.map": "static/css/main.dd56e316.css.map",
+  "main.js": "static/js/main.0bf59be7.js",
+  "main.js.map": "static/js/main.0bf59be7.js.map",
   "static/media/Mynx.jpg": "static/media/Mynx.36120236.jpg",
   "static/media/Roboto-Bold.woff": "static/media/Roboto-Bold.eed9aab5.woff",
   "static/media/Roboto-Bold.woff2": "static/media/Roboto-Bold.c0f1e4a4.woff2",
@@ -21,5 +21,8 @@
   "static/media/google.png": "static/media/google.afa326bd.png",
   "static/media/googleassist.png": "static/media/googleassist.4e2f896a.png",
   "static/media/itunes.png": "static/media/itunes.77ae1ad2.png",
-  "static/media/outerspace.png": "static/media/outerspace.db4438f8.png"
+  "static/media/outerspace.png": "static/media/outerspace.db4438f8.png",
+  "static/media/theycamealexa.png": "static/media/theycamealexa.0a7562ea.png",
+  "static/media/theycameart.png": "static/media/theycameart.1eed9b9e.png",
+  "static/media/theycamelogo.png": "static/media/theycamelogo.c8e08547.png"
 }
